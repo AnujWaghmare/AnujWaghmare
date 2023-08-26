@@ -5,8 +5,12 @@
 <p align="center"> <a href="https://github.com/AnujWaghmare/"><img width="150px" height="24" src="https://komarev.com/ghpvc/?username=AnujWaghmare&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="AnujWaghmare" /></a> </p><br>
 
 
-- 🔭 I’m currently working on Python...
-- 🌱 I’m currently learning DS...
-- 💬 Ask me about Anything...
-- ⚡ Fun fact: I'm Shadow...
+```py
+About Me = [
+    "If You Are Thinking",
+    "I'm Hiding in The Shadows",
+    "But I'm The Shadow",
+    "Devil of The Darkness !! 💞"
+]
+```
 
